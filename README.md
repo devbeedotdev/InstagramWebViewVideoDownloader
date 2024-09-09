@@ -11,12 +11,12 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Seamlessly integrates with the Flutter WebView to allow for downloading of videos hosted on Instagram.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+<!--TODO: List what your package can do. Maybe include images, gifs, or videos.-->
+Provides a smooth and intuitive way for users to download videos within the app.
 
 ## Getting started
 
